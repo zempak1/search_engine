@@ -1,0 +1,1 @@
+.jpg;.jpeg;.zip;.pdf;.png;.tar;.css;.gif;.bmp;.jar;.tar.gz;.mov;.mav;.mts;.m2ts;.mp4;.rar;.icm;.3gp;.xls;.wmv;.apk;.mht;.7z;.RAF;.ico;.bat;.ini;.mbcfg;.exe;.avi;.wav;.mp3;.lfp;.mpg;.amr;.pano;.xlsx;.ts;.GPR;.webp;.ppt;.doc;.docx;.nc;.fig;
